@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `149.0.7790.1` | 563.77 MB | `0dfea82c2ffa37d9...` | [下载](https://dl.google.com/release2/chrome/adb6c46gdumkruruchayxv3tny5q_149.0.7790.1/149.0.7790.1_chrome_installer_uncompressed.exe) |
-| **x64** | `149.0.7790.0` | 458.38 MB | `009d5df29cfcd809...` | [下载](https://dl.google.com/release2/chrome/j4mtlwgwkect3fkx2bsnw2c56a_149.0.7790.0/149.0.7790.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `149.0.7790.0` | 439.7 MB | `86b2ccf13e6e0c6c...` | [下载](https://dl.google.com/release2/chrome/bmbyrlorgdvwabnlz7qjwk2v7e_149.0.7790.0/149.0.7790.0_chrome_installer_uncompressed.exe) |
+| **x86** | `149.0.7791.1` | 375.82 MB | `04029c57ba76409a...` | [下载](https://dl.google.com/release2/chrome/bwycbizt3cbfemeoydwrfe57_149.0.7791.1/149.0.7791.1_chrome_installer_uncompressed.exe) |
+| **x64** | `149.0.7791.1` | 458.88 MB | `28e20374c706602f...` | [下载](https://dl.google.com/release2/chrome/m7ylb6hrn6yxslabdktvnuqnn4_149.0.7791.1/149.0.7791.1_chrome_installer_uncompressed.exe) |
+| **ARM64** | `149.0.7791.1` | 442.68 MB | `1daee04450409913...` | [下载](https://dl.google.com/release2/chrome/ejaztveckj3mhcecjh3mytfcia_149.0.7791.1/149.0.7791.1_chrome_installer_uncompressed.exe) |
 
