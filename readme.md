@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `151.0.7893.0` | 384.91 MB | `2507171f07e91576...` | [下载](https://dl.google.com/release2/chrome/lbqdrowykl5xt7fzu37kfhc6mq_151.0.7893.0/151.0.7893.0_chrome_installer_uncompressed.exe) |
-| **x64** | `151.0.7893.1` | 704.33 MB | `3356b6918d0b150b...` | [下载](https://dl.google.com/release2/chrome/ac4dheyqdu3qcpnedgdjsoh64laa_151.0.7893.1/151.0.7893.1_chrome_installer_uncompressed.exe) |
+| **x86** | `151.0.7894.0` | 385.04 MB | `054fc2ae1bb9a778...` | [下载](https://dl.google.com/release2/chrome/ac2fuman3xb5a3hrut6sr2v6ecsa_151.0.7894.0/151.0.7894.0_chrome_installer_uncompressed.exe) |
+| **x64** | `151.0.7894.0` | 471.35 MB | `54e454391574743b...` | [下载](https://dl.google.com/release2/chrome/cqnc5y7xfkt4uneexwqzvvlspu_151.0.7894.0/151.0.7894.0_chrome_installer_uncompressed.exe) |
 | **ARM64** | `151.0.7893.0` | 448.06 MB | `bca72ad7361fee97...` | [下载](https://dl.google.com/release2/chrome/pptemxgs4o7jatkmanghap5cau_151.0.7893.0/151.0.7893.0_chrome_installer_uncompressed.exe) |
 
