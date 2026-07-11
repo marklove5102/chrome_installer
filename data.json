@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "152.0.7945.0",
-        "size": 488795560,
-        "sha1": "0a3ee88cd2552bd2d49dc6a74003b2af5cbdc206",
-        "sha256": "89c9f4143f79a8addfa01752c13b359bc7366b996463d262a567a6e5b81e5f20",
+        "version": "152.0.7945.1",
+        "size": 711838120,
+        "sha1": "d5280b32c1a8e4a227989319f0a3acde3506e26b",
+        "sha256": "844fbdb7ab5cd834c7cf1eaf5a4d2b404e0a9bd34b342c4f4de3eb307bebff4e",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/pxqs33eabnvynt6sigxu3633te_152.0.7945.0/152.0.7945.0_chrome_installer_uncompressed.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/pxqs33eabnvynt6sigxu3633te_152.0.7945.0/152.0.7945.0_chrome_installer_uncompressed.exe",
-            "http://dl.google.com/release2/chrome/pxqs33eabnvynt6sigxu3633te_152.0.7945.0/152.0.7945.0_chrome_installer_uncompressed.exe",
-            "https://dl.google.com/release2/chrome/pxqs33eabnvynt6sigxu3633te_152.0.7945.0/152.0.7945.0_chrome_installer_uncompressed.exe",
-            "http://www.google.com/dl/release2/chrome/pxqs33eabnvynt6sigxu3633te_152.0.7945.0/152.0.7945.0_chrome_installer_uncompressed.exe",
-            "https://www.google.com/dl/release2/chrome/pxqs33eabnvynt6sigxu3633te_152.0.7945.0/152.0.7945.0_chrome_installer_uncompressed.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ad5xyna22yzwpzjwkn3picipcbda_152.0.7945.1/152.0.7945.1_chrome_installer_uncompressed.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad5xyna22yzwpzjwkn3picipcbda_152.0.7945.1/152.0.7945.1_chrome_installer_uncompressed.exe",
+            "http://dl.google.com/release2/chrome/ad5xyna22yzwpzjwkn3picipcbda_152.0.7945.1/152.0.7945.1_chrome_installer_uncompressed.exe",
+            "https://dl.google.com/release2/chrome/ad5xyna22yzwpzjwkn3picipcbda_152.0.7945.1/152.0.7945.1_chrome_installer_uncompressed.exe",
+            "http://www.google.com/dl/release2/chrome/ad5xyna22yzwpzjwkn3picipcbda_152.0.7945.1/152.0.7945.1_chrome_installer_uncompressed.exe",
+            "https://www.google.com/dl/release2/chrome/ad5xyna22yzwpzjwkn3picipcbda_152.0.7945.1/152.0.7945.1_chrome_installer_uncompressed.exe"
         ]
     }
 }
